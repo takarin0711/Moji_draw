@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moji", "Moji.csproj", "{D7509047-AB4E-3CA9-1603-5452CDB21E52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moji.Editor", "Moji.Editor.csproj", "{B043F1ED-8832-FEA2-B707-F1F72C074276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7509047-AB4E-3CA9-1603-5452CDB21E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7509047-AB4E-3CA9-1603-5452CDB21E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7509047-AB4E-3CA9-1603-5452CDB21E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7509047-AB4E-3CA9-1603-5452CDB21E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B043F1ED-8832-FEA2-B707-F1F72C074276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B043F1ED-8832-FEA2-B707-F1F72C074276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B043F1ED-8832-FEA2-B707-F1F72C074276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B043F1ED-8832-FEA2-B707-F1F72C074276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

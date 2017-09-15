@@ -1,0 +1,1 @@
+C:\Unity\Moji\App\Moji\Moji.csproj;x86
