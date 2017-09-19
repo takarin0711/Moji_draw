@@ -144,7 +144,7 @@ MonoBehaviour:
     y: 0
     width: 2048
     height: 1069
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -253,8 +253,8 @@ MonoBehaviour:
     y: 0
     width: 1229
     height: 616
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -356,19 +356,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/HoloToolkit/SpatialMapping/Prefabs
+    - Assets/HoloToolkit-Tests/Input/Materials
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/HoloToolkit/SpatialMapping/Prefabs
+  - Assets/HoloToolkit-Tests/Input/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Unity\Moji
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 111}
-    m_SelectedIDs: 0e2b0000
-    m_LastClickedID: 11022
-    m_ExpandedIDs: 00000000cc270000f827000020280000062a0000222b00009a2b0000ee2b000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 211}
+    m_SelectedIDs: 3c2a0000
+    m_LastClickedID: 10812
+    m_ExpandedIDs: 00000000cc270000f827000020280000e0280000062a0000222b00009a2b0000ee2b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -423,7 +423,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -512,9 +512,9 @@ MonoBehaviour:
     height: 595
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1afbffff
-    m_LastClickedID: -1254
-    m_ExpandedIDs: defbffff00000000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: fe67ffffcc68ffff6a6affffd477ffffa278ffff407affff1c88ffffea88ffff888afffff0b9ffffbebaffff5cbcffffd0c0ffff9ec1ffff3cc3ffff8ad4ffff58d5fffff6d6ffff6ae0ffff3ce1ffffdae2ffff9ae6ffff6ce7ffff0ae9ffffccf0ffff96f1ffff3af3ffffdefbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -598,9 +598,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.17699379, y: 0.6628014, z: -0.16558145, w: -0.7084845}
   m_Size:
-    m_Target: 28.983532
+    m_Target: 30.28779
     speed: 2
-    m_Value: 28.983532
+    m_Value: 30.28779
   m_Ortho:
     m_Target: 0
     speed: 2
